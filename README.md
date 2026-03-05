@@ -1,7 +1,7 @@
 ## NONAME
-NONAME was a 2012 and 2017 revival created by vel
+NONAME was a 2012 and 2017 revival created by vel.
 It was hosted via radmin VPN so if that helps then ig.
-uh enjoy this old bricks website
+uh enjoy this old bricks website.
 Frontend inspired by finobe
 ## HOSTING
 Use XAMPP and Composer to host it locally
