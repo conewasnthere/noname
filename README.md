@@ -1,3 +1,4 @@
+## DO NOT USE THIS TO HOST PUBLIC REVIVALS!!!
 ## NONAME
 NONAME was a 2012 and 2017 revival created by vel.
 It was hosted via radmin VPN so if that helps then ig.
